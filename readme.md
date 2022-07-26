@@ -3,7 +3,9 @@
 Here you can find all of the end of chapter problems in the csapp book, as well  
 as some practice problems and random experiments. This is mainly for me to  
 keep everything in one place as I am using multiple machines, but I made it  
-public so potentially someone else might get something out of it.    
+public so potentially someone else might get something out of it. 
+
+A link to the video tutorial for shell https://www.youtube.com/watch?v=spD11nnLsLE&t=932s
 
 
 #### Building the Y86-64 simulators for Chapter 4
